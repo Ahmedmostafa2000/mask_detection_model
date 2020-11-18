@@ -1,5 +1,7 @@
 # Mask detection
 <img src = "readme_images/elon.jpg" width = "400px" align = right>
+
+
 ## Dataset:  
 https://www.kaggle.com/omkargurav/face-mask-dataset
 
