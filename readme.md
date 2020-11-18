@@ -1,5 +1,5 @@
 # Mask detection
-
+<img src = "readme_images/elon.jpg" width = "500px" align = right>
 ## Dataset:  
 https://www.kaggle.com/omkargurav/face-mask-dataset
 
@@ -8,7 +8,7 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 - pandas
 - keras
 
-<img src = "readme_images/elon.jpg" width = "500px" align = right>
+
 
 
 ## model:
