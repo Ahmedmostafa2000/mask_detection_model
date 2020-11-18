@@ -15,6 +15,7 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 - I used ResNet 50 and finetuned it after removing the last sofmax layer
 - I added one more layer for two classes ["without_mask","withmask"]
 - I used image data generator class in my model with no augmentation specified (I will maybe apply augmentation and see the difference)
+- the model hyperparameters and loss function used could be found in the config cell [here](https://github.com/Ahmedmostafa2000/mask_detection_model/blob/main/Exploring_and_evaluating_best_model.ipynb)
 
 
 
