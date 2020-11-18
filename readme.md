@@ -31,7 +31,9 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 - the model have the far face wearing mask issue, which also can be solved by using a face recognition before using the model  
 - I didn't use the model on real time, but I am looking up to  
 
+Upcoming updates:
 
 A readme update will be uploaded soon isa  
 A demo will be uploaded soon  
-A realtime implementation will be uploaded soon  
+A realtime implementation will be uploaded
+A predict script will be uploaded
