@@ -8,13 +8,18 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 - pandas
 - keras
 
+<img src = "readme_images/elon.jpg" width = "500px" align = right>
+
+
 ## model:
 - I used ResNet 50 and finetuned it after removing the last sofmax layer
 - I added one more layer for two classes ["without_mask","withmask"]
 - I used image data generator class in my model with no augmentation specified (I will maybe apply augmentation and see the difference)
 
-![sample2](readme_images/elon.jpg)
-![sample](readme_images/example.jpg)
+
+
+
+<img src = "readme_images/example.jpg" width = "500px" align = right>
 
 ## results:
 - the best model got an accuracy of 90% accuracy on training set, 93.5% accuracy on the developement set and 91% on the testing set  
