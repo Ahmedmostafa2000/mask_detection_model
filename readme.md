@@ -9,7 +9,7 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 
 ## model:
 - I used ResNet 50 and finetuned it after removing the last sofmax layer
-- I added one more layer with two classes ["without_mask","withmask"]
+- I added one more layer for two classes ["without_mask","withmask"]
 - I used image data generator class in my model with no augmentation (I will maybe apply augmentation and see the difference)
 
 ## results:
