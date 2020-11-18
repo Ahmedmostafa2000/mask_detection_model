@@ -1,5 +1,5 @@
 # Mask detection
-<img src = "readme_images/elon.jpg" width = "500px" align = right>
+<img src = "readme_images/elon.jpg" width = "400px" align = right>
 ## Dataset:  
 https://www.kaggle.com/omkargurav/face-mask-dataset
 
@@ -19,7 +19,7 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 
 
 
-<img src = "readme_images/example.jpg" width = "500px" align = right>
+<img src = "readme_images/example.jpg" width = "400px" align = right>
 
 ## results:
 - the best model got an accuracy of 90% accuracy on training set, 93.5% accuracy on the developement set and 91% on the testing set  
