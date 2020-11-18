@@ -13,6 +13,7 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 - I added one more layer for two classes ["without_mask","withmask"]
 - I used image data generator class in my model with no augmentation specified (I will maybe apply augmentation and see the difference)
 
+![sample2](readme_images/elon.jpg)
 ![sample](readme_images/example.jpg)
 
 ## results:
