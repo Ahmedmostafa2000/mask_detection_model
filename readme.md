@@ -1,8 +1,9 @@
 # Mask detection
-you can find dataset here
+
+## Dataset:  
 https://www.kaggle.com/omkargurav/face-mask-dataset
 
-## required librares
+## required librares:
 - numpy
 - pandas
 - keras
