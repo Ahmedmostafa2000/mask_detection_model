@@ -10,7 +10,7 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 ## model:
 - I used ResNet 50 and finetuned it after removing the last sofmax layer
 - I added one more layer for two classes ["without_mask","withmask"]
-- I used image data generator class in my model with no augmentation (I will maybe apply augmentation and see the difference)
+- I used image data generator class in my model with no augmentation specified (I will maybe apply augmentation and see the difference)
 
 ## results:
 - the best model got an accuracy of 90% accuracy on training set, 93.5% accuracy on the developement set and 91% on the testing set  
