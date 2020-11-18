@@ -13,6 +13,8 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 - I added one more layer for two classes ["without_mask","withmask"]
 - I used image data generator class in my model with no augmentation specified (I will maybe apply augmentation and see the difference)
 
+![sample](readme_images/example.jpg)
+
 ## results:
 - the best model got an accuracy of 90% accuracy on training set, 93.5% accuracy on the developement set and 91% on the testing set  
 - the model has a weak tendency to sky_blue objects such as towels, shirts and what so ever in the presence of a face (further investigation soon isa)  [I will put the unrecognized images in a folder]
