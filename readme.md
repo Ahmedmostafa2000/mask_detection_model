@@ -18,7 +18,8 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 - the model has a problem with differing between mask on a face and in picture, partially it would be solved with face recog, but another issue arises which is a face with a mask but the face is not covered by the mask
 - the model have the far face wearing mask issue, which also can be solved by using a face recognition before using the model  
 - I didn't use the model on real time, but I am looking up to  
-- 
+
+
 A readme update will be uploaded soon isa  
 A demo will be uploaded soon  
 A realtime implementation will be uploaded soon  
