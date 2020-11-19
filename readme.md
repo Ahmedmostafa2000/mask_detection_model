@@ -37,3 +37,8 @@ A readme update will be uploaded soon isa
 A demo will be uploaded soon  
 A realtime implementation will be uploaded
 A predict script will be uploaded
+
+
+Notes:
+- this model was trained on Google Collab GPU
+- Google collab apparently faster than my computer with the factor of x186, so thanks google
