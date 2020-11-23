@@ -33,11 +33,13 @@ https://www.kaggle.com/omkargurav/face-mask-dataset
 
 ## Upcoming updates:
 
-A readme update will be uploaded soon isa  
+
 A demo will be uploaded soon  
 A realtime implementation will be uploaded
 A predict script will be uploaded
-
+V2 (soon will be uploaded):
+  - added another dataset
+  - added early stopping
 
 Notes:
 - this model was trained on Google Collab GPU
