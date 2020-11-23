@@ -40,7 +40,7 @@ A predict script will be uploaded
 V2 (soon will be uploaded):
   - added another dataset
   - added early stopping
-
+  - data was normalized
 Notes:
 - this model was trained on Google Collab GPU
 - Google collab apparently faster than my computer with the factor of x186, so thanks google
